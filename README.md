@@ -10,10 +10,10 @@
 <img src = "https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white">
 </a>
 <a href ="https://www.twitter.com/silverdruid_/">
-<img src = "https://img.shields.io/badge/Twitter-twitter-blue?logo=twitter&logoColor=blue">
+<img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=blue">
 </a>
 <a href ="https://mail.google.com/mail/u/?authuser=zlatantemi@gmail.com">
-<img src = "https://img.shields.io/badge/Gmail-gmail-red?logo=Gmail&logoColor=red">
+<img src = "https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=red">
 </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=silverdruid&style=flat-square&color=blue" alt=""/>
@@ -44,6 +44,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+
   </div>
   
   ---
