@@ -23,7 +23,7 @@
 </div>
 
 ---
-### man_technologist: About me :
+###man_technologist: About me :
 :wave:
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
