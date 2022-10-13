@@ -29,9 +29,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: Contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Product designing.
+- :seedling: Currently learning about cloud computing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, read tech articles and write for my tech blog.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-temitope-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/temitope-agbor-3b3253163)
 
