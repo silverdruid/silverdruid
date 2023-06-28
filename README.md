@@ -29,7 +29,7 @@ I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 - :telescope: Contributing to frontend for building web applications.
 
-- :seedling: Currently learning about cloud computing.
+- :seedling: Currently learning about ba kend development.
 
 - :zap: In my free time, read tech articles and play games.
 
