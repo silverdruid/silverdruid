@@ -51,6 +51,7 @@ I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gi
     <img src="https://github.com/silverdruid/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/silverdruid/devicon/blob/master/icons/linux/linux-plain.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/silverdruid/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/silverdruid/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
   
   
   </div>
