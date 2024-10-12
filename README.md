@@ -12,7 +12,7 @@
 <a href ="https://www.twitter.com/silverdruid_/">
 <img src = "https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=blue">
 </a>
-<a href ="https://mail.google.com/mail/u/?authuser=zlatantemi@gmail.com">
+<a href ="https://mail.google.com/mail/u/?authuser=agbortemitope@gmail.com">
 <img src = "https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=red">
 </a>
 </div>
@@ -25,7 +25,7 @@
 ---
 ## About me :
 :wave:
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: Contributing to frontend for building web applications.
 
